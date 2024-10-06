@@ -43,3 +43,4 @@ git push codecommit master
 ### config
 * aws cloudlog agent for dumping logs to aws cloudwatch 
 * init.d/ service script with nohup
+* 
