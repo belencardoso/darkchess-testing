@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.c0nrad.darkchess</groupId>
-  <artifactId>darkchess_Manual_BCardoso</artifactId>
+  <artifactId>darkchess</artifactId>
   <version>1.0-SNAPSHOT</version>
 	<packaging>jar</packaging>
-  <name>darkchess_Manual_BCardoso</name>
+  <name>darkchess</name>
   <!-- FIXME change it to the project's website -->
   <url>https://playdarkchess.com</url>
 
